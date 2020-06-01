@@ -1,0 +1,12 @@
+#scrolly {
+    width: 50vw;
+    height: 100vh;
+    margin: auto;
+    border: 2rem solid white;
+    background-color: white;
+    font-size: x-large;
+}
+
+p {
+    border: 2rem solid black;
+}
